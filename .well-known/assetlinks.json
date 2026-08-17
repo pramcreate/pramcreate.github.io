@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.pramcreate.twa",
-        "sha256_cert_fingerprints": ["23:16:D6:29:2E:FE:13:1A:89:3C:ED:6E:61:7A:23:4F:47:EC:28:F9:51:F3:FA:64:6B:AB:7B:3A:C6:E3:E6:BA"]
+        "sha256_cert_fingerprints": ["23:16:D6:29:2E:FE:13:1A:89:3C:ED:6E:61:7A:23:4F:47:EC:28:F9:51:F3:FA:64:6B:AB:7B:3A:C6:E3:E6:BA", "E7:F4:1D:BD:81:82:90:DF:B5:DD:6D:9F:F5:AA:AC:C9:80:4D:E8:F4:CC:C5:54:50:42:4C:8C:26:EF:35:11:B5"]
       }
     }]
